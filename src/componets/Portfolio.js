@@ -8,7 +8,7 @@ import React, { useState } from 'react';
 
 
 function portfolio() {
-    const message = 'This is my fantastic portfolio! I am part of react';
+    // const message = 'This is my fantastic portfolio! I am part of react';
     
  // The return statement contains something called "JSX"
   // JSX is a syntax extension to Javascript that allows us to write HTML inside Javascript
@@ -19,6 +19,7 @@ function portfolio() {
       <section>
       <div className="container" flex-box  >
       <h1 flex-box >Where is your code? Let me see what you've done?!?!?!?!?!</h1>
+      
       </div>
       </section>
   );
