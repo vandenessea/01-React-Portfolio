@@ -1,7 +1,7 @@
 import React from 'react';
 //Below we are imoporting our portfolio file from our componets folder
 import Portfolio from './componets/Portfolio';
-import Carosel from './componets/Carosel';
+import Carousel from './componets/Carousel';
 import './App.css';
 
 
@@ -14,7 +14,7 @@ function App() {
     
     <div className="portfolio-app">
     <Portfolio/>
-    <Carosel/>
+    <Carousel/>
       </div>
   );
 }
