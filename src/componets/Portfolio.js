@@ -1,7 +1,7 @@
 //import React from 'react';
 import React, { useState } from 'react';
-import PortfolioForm from 
-import Portfolio
+// import PortfolioForm from 
+// import Portfolio from 
 // React components are isolated parts of an application that help organize and isolate different parts of the program into smaller chunks
 // We can pass data to these components and even render other components inside other components.
 // The `portfolio` component is a child of our `App` component and is responsible for rendering the "Portfolio" header.
@@ -18,7 +18,7 @@ function portfolio() {
   return (
       <section>
       <div className="container" flex-box  >
-      <h1 flex-box >Where is your code? Let me see what youve done?!?!?!?!?!</h1>
+      <h1 flex-box >Where is your code? Let me see what you've done?!?!?!?!?!</h1>
       </div>
       </section>
   );
