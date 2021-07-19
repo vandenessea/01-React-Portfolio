@@ -1,9 +1,11 @@
 //import React from 'react';
 import React  from 'react';
 //import Carousel from './Carousel';
+
 import Carousel from 'react-bootstrap/Carousel'
-import Body from '../Images/Body.jpg'
-import Blue from '../Images/Blue.jpg'
+import Lightboxes from '../Images/Lightboxes.jpg'
+import Neurons from '../Images/Neurons.png'
+import Cyberdyne from '../Images/Cyberdyne.jpg'
 
 
 function carousel() {
@@ -13,30 +15,30 @@ return (
     <Carousel>
     <Carousel.Item interval={9999}>
       <img
-        className="d-block w-100"
-        src={Body}
+        className="d-block w-100 " width="700px" height="700px"
+        src={Cyberdyne}
         alt="Body slide"
       />
       <Carousel.Caption>
-        <h3>First slide label</h3>
-        <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
+        <h3>About Me?</h3>
+        <p>Who am I? What do i do?</p>
       </Carousel.Caption>
     </Carousel.Item>
     <Carousel.Item interval={9999}>
       <img
-        className="d-block w-100"
-        src={Blue}
+      className="d-block w-100 " width="700px" height="700px"
+        src={Lightboxes}
         alt="Second slide"
       />
       <Carousel.Caption>
-        <h3>Second slide label</h3>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+        <h3>Take a Link at me</h3>
+        <p>Links of best work</p>
       </Carousel.Caption>
     </Carousel.Item>
     <Carousel.Item >
       <img
-        className="d-block w-100"
-        src="holder.js/800x400?text=Third slide&bg=20232a"
+      className="d-block w-100 " width="700px" height="700px"
+        src={Neurons}
         alt="Third slide"
       />
       <Carousel.Caption>
