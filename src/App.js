@@ -3,7 +3,9 @@ import React from 'react';
 //Below we are imoporting our portfolio file from our componets folder
 import Portfolio from './componets/Portfolio';
 import Carousel from './componets/Carousel';
+import Navbar from './componets/Navbar';
 import './App.css';
+//import { Navbar } from 'react-bootstrap';
 
 
 // React apps typically have a single App component at the very top that can reference other React components.
@@ -16,6 +18,7 @@ function App() {
     <div className="portfolio-app">
     <Portfolio/>
     <Carousel/>
+    <Navbar/>
       </div>
   );
 }
