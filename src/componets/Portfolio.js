@@ -17,10 +17,9 @@ function portfolio() {
 
   return (
       <section>
-      <div className="container" flexbox= "true" >
-      <h1 flex-box >Where is your code? Let me see what you've done?!?!?!?!?!</h1>
+     
       
-      </div>
+      
       </section>
   );
 }

@@ -16,9 +16,10 @@ function App() {
   return (
     
     <div className="portfolio-app">
-    <Portfolio/>
-    <Carousel/>
     <Navbar/>
+    
+    <Carousel/>
+    <Portfolio/>
       </div>
   );
 }

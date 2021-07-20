@@ -2,9 +2,11 @@
 import React  from 'react';
 //import Carousel from './Carousel';
 
-
-
+import Container from 'react-bootstrap/Container'
 import Navbar from 'react-bootstrap/Navbar'
+import NavDropdown from 'react-bootstrap/NavDropdown'
+//import container from bootstrp react, NavDropdown
+import Nav from 'react-bootstrap/Nav'
 
 
 
@@ -13,8 +15,8 @@ function navbar() {
     return (
         
         <Navbar bg="light" expand="lg">
-        <Container/>
-          <Navbar.Brand href="#home">React-Bootstrap</Navbar.Brand>
+        <Container>
+          <Navbar.Brand href="#home">React-Portfolio</Navbar.Brand>
           <Navbar.Toggle aria-controls="basic-navbar-nav" />
           <Navbar.Collapse id="basic-navbar-nav">
             <Nav className="me-auto">
@@ -29,8 +31,8 @@ function navbar() {
               </NavDropdown>
             </Nav>
           </Navbar.Collapse>
-        <Container/>
-      <Navbar/>
+        </Container>
+      </Navbar>
       
       
 
