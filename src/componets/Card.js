@@ -1,4 +1,5 @@
 //import React from 'react';
+import { left } from '@popperjs/core';
 import React  from 'react';
 //import Carousel from './Carousel';
 
@@ -8,7 +9,7 @@ import Card from 'react-bootstrap/Card'
 //import NavDropdown from 'react-bootstrap/NavDropdown'
 //import container from bootstrp react, NavDropdown
 //import Nav from 'react-bootstrap/Nav'
-import Blue from '../Images/Blue.jpg'
+//import Blue.jpg from './MoreImages/Blue.jpg'
 
 
 // <img 
@@ -24,13 +25,12 @@ function card() {
 
     return (
         
-        <Card style={{ width: '18rem' }}>
+        <Card style={{ width: '25rem' }}>
   <Card.Body>
-    <Card.Title>Card Title</Card.Title>
-    <Card.Subtitle className="mb-2 text-muted">Card Subtitle</Card.Subtitle>
-    <Card.Img src={Blue}>
-      Some quick example text to build on the card title and make up the bulk of
-      the card's content.
+    <Card.Title>Alexander Vandenesse</Card.Title>
+    <Card.Subtitle className="mb-2 text-muted">Full Stack Web Developer</Card.Subtitle>
+    <Card.Img src="./MoreImages/Blue.jpg">
+      
     </Card.Img>
     <Card.Link href="https://www.bootcampspot.com/">Card Link</Card.Link>
     <Card.Link href="https://www.bootcampspot.com/">Another Link</Card.Link>
