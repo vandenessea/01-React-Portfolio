@@ -2,8 +2,10 @@ import React from 'react';
 
 //Below we are imoporting our portfolio file from our componets folder
 import Portfolio from './componets/Portfolio';
+import Card from './componets/Card';
 import Carousel from './componets/Carousel';
 import Navbar from './componets/Navbar';
+//import  from './componets/Card';
 import './App.css';
 //import { Navbar } from 'react-bootstrap';
 
@@ -17,8 +19,9 @@ function App() {
     
     <div className="portfolio-app">
     <Navbar/>
-    
-    <Carousel/>
+   
+    <Carousel/> 
+    <Card/>
     <Portfolio/>
       </div>
   );

@@ -6,7 +6,7 @@ import Carousel from 'react-bootstrap/Carousel'
 import Lightboxes from '../Images/Lightboxes.jpg'
 import Neurons from '../Images/Neurons.png'
 import Cyberdyne from '../Images/Cyberdyne.jpg'
-
+//import Card from '../componets/Card'
 
 function carousel() {
 
@@ -14,9 +14,9 @@ return (
 
     <Carousel>
     <Carousel.Item interval={5000}>
-      <img
-        className="d-block w-100 " width="700px" height="700px"
-        src={Cyberdyne}
+      <img 
+        className="d-block w-100 " width="700px" height="700px" 
+        src={Cyberdyne} 
         alt="Body slide"
       />
       <Carousel.Caption>
