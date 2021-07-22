@@ -13,6 +13,26 @@ body {
   transform: translate(-50%, -50%);
 }
 
+
+
+h2 {
+  color:white;
+  font-weight: bolder;
+  /* text-align: center; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+p {
+  color:white;
+  font-weight: bolder;
+  /* text-align: center; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 /* .Navbar {
   background-color: black;
 } */

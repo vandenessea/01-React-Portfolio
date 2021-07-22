@@ -32,8 +32,8 @@ function card({className}) {
     <Card.Img src="./MoreImages/Blue.jpg">
       
     </Card.Img>
-    <Card.Link href="https://www.bootcampspot.com/">Card Link</Card.Link>
-    <Card.Link href="https://www.bootcampspot.com/">Another Link</Card.Link>
+    <Card.Link href="https://epurpur.github.io/NationalParkService/">Project 1</Card.Link>
+    <Card.Link href="https://whispering-harbor-84238.herokuapp.com/login">Project 2</Card.Link>
   </Card.Body>
 </Card>
 
