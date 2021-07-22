@@ -1,5 +1,5 @@
 //import React from 'react';
-import { left } from '@popperjs/core';
+//import { left } from '@popperjs/core';
 import React  from 'react';
 //import Carousel from './Carousel';
 
@@ -10,7 +10,7 @@ import Card from 'react-bootstrap/Card'
 //import container from bootstrp react, NavDropdown
 //import Nav from 'react-bootstrap/Nav'
 //import Blue.jpg from './MoreImages/Blue.jpg'
-
+//import '';
 
 // <img 
 //         className="d-block w-100 " width="700px" height="700px" 
@@ -21,13 +21,13 @@ import Card from 'react-bootstrap/Card'
 
 
 
-function card() {
+function card({className}) {
 
     return (
         
-        <Card style={{ width: '25rem' }}>
-  <Card.Body>
-    <Card.Title>Alexander Vandenesse</Card.Title>
+        <Card className= {className}  style={{ width: '25rem', color: "white", backgroundColor: "rgba(0, 0, 0, 0.5)" }}>
+  <Card.Body style= {{color: "white", backgroundColor: "rgba(0, 0, 0, 0.5)"}}>
+    <Card.Title >Alexander Vandenesse</Card.Title>
     <Card.Subtitle className="mb-2 text-muted">Full Stack Web Developer</Card.Subtitle>
     <Card.Img src="./MoreImages/Blue.jpg">
       
