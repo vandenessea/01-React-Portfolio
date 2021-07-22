@@ -1,28 +1,19 @@
 //import React from 'react';
 //import { left } from '@popperjs/core';
-import React  from 'react';
+import React from "react";
+//import { Card } from "react-bootstrap";
 //import Carousel from './Carousel';
 
-
 //import Container from 'react-bootstrap/Container'
-import Footer from 'react-bootstrap/Footer'
-
+import Card from 'react-bootstrap/Card'
 
 function footer() {
-    
-    <Footer >
-        <h2>Made with 💻 by Alexander Vandenesse</h2>
-        <p>
-            &copy; 2021 Proflomance Coding Solutions, Inc.
-        </p>
-    </Footer>
-
-
-
+  return (
+    <Card.Footer>
+      <h2>Made with 💻 by Alexander Vandenesse</h2>
+      <p>&copy; 2021 Proflomance Coding Solutions, Inc.</p>
+    </Card.Footer>
+  );
 }
 
-
-
-export default footer
-
-
+export default footer;
