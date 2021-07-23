@@ -25,7 +25,7 @@ function card({className}) {
 
     return (
         
-        <Card className= {className}  style={{ width: '25rem', color: "white", backgroundColor: "rgba(0, 0, 0, 0.5)" }}>
+        <Card className= {className} style={{ width: '25rem', color: "white", backgroundColor: "rgba(0, 0, 0, 0.5)" }}>
   <Card.Body style= {{color: "white", backgroundColor: "rgba(0, 0, 0, 0.5)"}}>
     <Card.Title >Alexander Vandenesse</Card.Title>
     <Card.Subtitle className="mb-2 text-muted">Full Stack Web Developer</Card.Subtitle>

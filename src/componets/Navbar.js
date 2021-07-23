@@ -27,9 +27,9 @@ function navbar() {
                 Contact Info
               </NavDropdown.Item>
               <NavDropdown.Divider />
-              <NavDropdown.Item href="#action/3.4">Linkedln</NavDropdown.Item>
-              <NavDropdown.Item href="#action/3.5">Github</NavDropdown.Item>
-              <NavDropdown.Item href="#action/3.6">Resume</NavDropdown.Item>
+              <NavDropdown.Item href="https://www.linkedin.com/in/alexander-vandenesse-063a20b7/">Linkedln</NavDropdown.Item>
+              <NavDropdown.Item href="https://github.com/vandenessea">Github</NavDropdown.Item>
+              <NavDropdown.Item href="https://drive.google.com/file/d/1JsOc0iYaSpxeeWiPz5zeM6ohQSys1OGr/view?usp=sharing">Resume</NavDropdown.Item>
             </NavDropdown>
           </Nav>
         </Navbar.Collapse>
