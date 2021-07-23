@@ -2,6 +2,7 @@ import React from "react";
 
 //Below we are imoporting our portfolio file from our componets folder
 import Portfolio from "./componets/Portfolio";
+import ContactInfo from "./componets/ContactInfo";
 import Card from "./componets/Card";
 import Carousel from "./componets/Carousel";
 import Navbar from "./componets/Navbar";
@@ -17,6 +18,7 @@ function App() {
   return (
     <div className="portfolio-app">
       <Navbar />
+      <ContactInfo />
       <div className="wrapper">
         <Carousel />
         <Card className= "absolute-card" />
