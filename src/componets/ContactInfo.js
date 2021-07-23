@@ -5,39 +5,17 @@ import React from "react";
 //import Carousel from './Carousel';
 
 //import Container from 'react-bootstrap/Container'
-import Card from 'react-bootstrap/Card'
-
-
+//import Card from "react-bootstrap/Card";
 
 function contactinfo() {
     return (
-        <Card.ContactInfo >
+      <div>
+        {/* <Card.ContactInfo > */}
         <h2>Phone: (804)-519-6717</h2>
      <p>&copy; Email: vandenessea96@gmail.com</p>
-     </Card.ContactInfo>
+     {/* </Card.ContactInfo> */}
+     </div>
     );
   }
-  
-  export default contactinfo;
-  
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+export default contactinfo;

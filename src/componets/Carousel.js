@@ -23,7 +23,7 @@ function carousel() {
           <button
             style={{ color: "white", backgroundColor: "rgba(0, 0, 0, 0.5)" }}
             onClick={() =>
-              window.open("https://github.com/vandenessea/01-React-Portfolio")
+              window.open("https://github.com/vandenessea")
             }
           >
             About Me?
@@ -43,7 +43,7 @@ function carousel() {
           <button
             style={{ color: "white", backgroundColor: "rgba(0, 0, 0, 0.5)" }}
             onClick={() =>
-              window.open("https://github.com/vandenessea/01-React-Portfolio")
+              window.open("https://github.com/vandenessea")
             }
           >
             About Me?
@@ -63,7 +63,7 @@ function carousel() {
           <button
             style={{ color: "white", backgroundColor: "rgba(0, 0, 0, 0.5)" }}
             onClick={() =>
-              window.open("https://github.com/vandenessea/01-React-Portfolio")
+              window.open("https://github.com/vandenessea")
             }
           >
             About Me?

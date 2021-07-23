@@ -22,10 +22,7 @@ function navbar() {
             <Nav.Link href="https://www.bootcampspot.com/">Link</Nav.Link>
             <NavDropdown title="Dropdown" id="basic-nav-dropdown">
               <NavDropdown.Item href="#action/3.1">Home</NavDropdown.Item>
-              <NavDropdown.Item href="#action/3.2">About Me</NavDropdown.Item>
-              <NavDropdown.Item href="#action/3.3">
-                Contact Info
-              </NavDropdown.Item>
+              
               <NavDropdown.Divider />
               <NavDropdown.Item href="https://www.linkedin.com/in/alexander-vandenesse-063a20b7/">
                 Linkedln
