@@ -19,6 +19,7 @@ function navbar() {
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="me-auto">
             <Nav.Link href="#home">Home</Nav.Link>
+            <Nav.Link href="#contact">Contact</Nav.Link>
             <Nav.Link href="https://www.bootcampspot.com/">Link</Nav.Link>
             <NavDropdown title="Dropdown" id="basic-nav-dropdown">
               <NavDropdown.Item href="#action/3.1">Home</NavDropdown.Item>

@@ -1,12 +1,10 @@
 import React from "react";
+import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 
 //Below we are imoporting our portfolio file from our componets folder
-import Portfolio from "./componets/Portfolio";
+import Home from "./componets/Home";
 import ContactInfo from "./componets/ContactInfo";
-import Card from "./componets/Card";
-import Carousel from "./componets/Carousel";
-import Navbar from "./componets/Navbar";
-import Footer from "./componets/Footer";
+
 //import  from './componets/Card';
 import "./App.css";
 //import { Navbar } from 'react-bootstrap';
@@ -16,16 +14,13 @@ import "./App.css";
 
 function App() {
   return (
-    <div className="portfolio-app">
-      <Navbar />
-      <ContactInfo />
-      <div className="wrapper">
-        <Carousel />
-        <Card className= "absolute-card" />
-      </div>
-      <Portfolio />
-      <Footer />
-    </div>
+    <Router>
+    
+      <Switch>
+        <Route exact path="/" component={Home} />
+        <Route exact path="/contact" component={ContactInfo} />
+      </Switch>
+    </Router>
   );
 }
 
