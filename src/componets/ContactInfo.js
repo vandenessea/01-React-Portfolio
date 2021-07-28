@@ -2,7 +2,7 @@
 //import { left } from '@popperjs/core';
 import React from "react";
 //import { Card } from "react-bootstrap";
-import Carousel from './Carousel';
+//import Carousel from './Carousel';
 
 //import Container from 'react-bootstrap/Container'
 //import Card from "react-bootstrap/Card";
