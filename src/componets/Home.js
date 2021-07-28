@@ -7,14 +7,13 @@ import Card from "./Card";
 import Carousel from "./Carousel";
 import Navbar from "./Navbar";
 import Footer from "./Footer";
-//import  from './componets/Card';
+// import  from './componets/Card';
 import "../App.css";
 
 
 
 function home() {
     return (
-
 
   <div className="portfolio-app">
   <Navbar />
