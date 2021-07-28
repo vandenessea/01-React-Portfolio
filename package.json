@@ -2,7 +2,7 @@
   "name": "01-react-portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://vandenessea.github.io/01-React-Portfolio",
+ 
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^11.2.7",
