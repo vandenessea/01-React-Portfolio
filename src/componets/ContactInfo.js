@@ -10,7 +10,7 @@ import Carousel from './Carousel';
 function contactinfo() {
     return (
       <div>
-        <Carousel />
+      
         {/* <Card.ContactInfo > */}
         <h2>Phone: (804)-519-6717</h2>
      <p>&copy; Email: vandenessea96@gmail.com</p>
