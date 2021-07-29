@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/01-React-Portfolio/static/css/main.2bf462b4.chunk.css",
+    "main.js": "/01-React-Portfolio/static/js/main.bf6e97d7.chunk.js",
+    "main.js.map": "/01-React-Portfolio/static/js/main.bf6e97d7.chunk.js.map",
+    "runtime-main.js": "/01-React-Portfolio/static/js/runtime-main.e053f06b.js",
+    "runtime-main.js.map": "/01-React-Portfolio/static/js/runtime-main.e053f06b.js.map",
+    "static/css/2.455652b6.chunk.css": "/01-React-Portfolio/static/css/2.455652b6.chunk.css",
+    "static/js/2.072bcc8c.chunk.js": "/01-React-Portfolio/static/js/2.072bcc8c.chunk.js",
+    "static/js/2.072bcc8c.chunk.js.map": "/01-React-Portfolio/static/js/2.072bcc8c.chunk.js.map",
+    "index.html": "/01-React-Portfolio/index.html",
+    "static/css/2.455652b6.chunk.css.map": "/01-React-Portfolio/static/css/2.455652b6.chunk.css.map",
+    "static/css/main.2bf462b4.chunk.css.map": "/01-React-Portfolio/static/css/main.2bf462b4.chunk.css.map",
+    "static/js/2.072bcc8c.chunk.js.LICENSE.txt": "/01-React-Portfolio/static/js/2.072bcc8c.chunk.js.LICENSE.txt",
+    "static/media/Cyberdyne.704cf6b1.jpg": "/01-React-Portfolio/static/media/Cyberdyne.704cf6b1.jpg",
+    "static/media/Lightboxes.cba96963.jpg": "/01-React-Portfolio/static/media/Lightboxes.cba96963.jpg",
+    "static/media/Neurons.e2fb2755.png": "/01-React-Portfolio/static/media/Neurons.e2fb2755.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e053f06b.js",
+    "static/css/2.455652b6.chunk.css",
+    "static/js/2.072bcc8c.chunk.js",
+    "static/css/main.2bf462b4.chunk.css",
+    "static/js/main.bf6e97d7.chunk.js"
+  ]
+}
