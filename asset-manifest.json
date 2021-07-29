@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/01-React-Portfolio/static/css/main.c961674b.chunk.css",
-    "main.js": "/01-React-Portfolio/static/js/main.033dec4b.chunk.js",
-    "main.js.map": "/01-React-Portfolio/static/js/main.033dec4b.chunk.js.map",
+    "main.css": "/01-React-Portfolio/static/css/main.ba02d90f.chunk.css",
+    "main.js": "/01-React-Portfolio/static/js/main.71c6bb99.chunk.js",
+    "main.js.map": "/01-React-Portfolio/static/js/main.71c6bb99.chunk.js.map",
     "runtime-main.js": "/01-React-Portfolio/static/js/runtime-main.e053f06b.js",
     "runtime-main.js.map": "/01-React-Portfolio/static/js/runtime-main.e053f06b.js.map",
     "static/css/2.455652b6.chunk.css": "/01-React-Portfolio/static/css/2.455652b6.chunk.css",
-    "static/js/2.aa3c7818.chunk.js": "/01-React-Portfolio/static/js/2.aa3c7818.chunk.js",
-    "static/js/2.aa3c7818.chunk.js.map": "/01-React-Portfolio/static/js/2.aa3c7818.chunk.js.map",
+    "static/js/2.072bcc8c.chunk.js": "/01-React-Portfolio/static/js/2.072bcc8c.chunk.js",
+    "static/js/2.072bcc8c.chunk.js.map": "/01-React-Portfolio/static/js/2.072bcc8c.chunk.js.map",
     "index.html": "/01-React-Portfolio/index.html",
     "static/css/2.455652b6.chunk.css.map": "/01-React-Portfolio/static/css/2.455652b6.chunk.css.map",
-    "static/css/main.c961674b.chunk.css.map": "/01-React-Portfolio/static/css/main.c961674b.chunk.css.map",
-    "static/js/2.aa3c7818.chunk.js.LICENSE.txt": "/01-React-Portfolio/static/js/2.aa3c7818.chunk.js.LICENSE.txt",
+    "static/css/main.ba02d90f.chunk.css.map": "/01-React-Portfolio/static/css/main.ba02d90f.chunk.css.map",
+    "static/js/2.072bcc8c.chunk.js.LICENSE.txt": "/01-React-Portfolio/static/js/2.072bcc8c.chunk.js.LICENSE.txt",
     "static/media/Cyberdyne.704cf6b1.jpg": "/01-React-Portfolio/static/media/Cyberdyne.704cf6b1.jpg",
     "static/media/Lightboxes.cba96963.jpg": "/01-React-Portfolio/static/media/Lightboxes.cba96963.jpg",
     "static/media/Neurons.e2fb2755.png": "/01-React-Portfolio/static/media/Neurons.e2fb2755.png"
@@ -19,8 +19,8 @@
   "entrypoints": [
     "static/js/runtime-main.e053f06b.js",
     "static/css/2.455652b6.chunk.css",
-    "static/js/2.aa3c7818.chunk.js",
-    "static/css/main.c961674b.chunk.css",
-    "static/js/main.033dec4b.chunk.js"
+    "static/js/2.072bcc8c.chunk.js",
+    "static/css/main.ba02d90f.chunk.css",
+    "static/js/main.71c6bb99.chunk.js"
   ]
 }
